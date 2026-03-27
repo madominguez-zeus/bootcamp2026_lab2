@@ -1,0 +1,2 @@
+Funcionalidad 1 -> Completada
+Funcionalidad 2 -> En progreso 
