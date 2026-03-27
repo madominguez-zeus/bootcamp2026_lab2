@@ -1,2 +1,3 @@
 Funcionalidad 1 -> Completada
+-Modificación para incluir nuevo Caso de uso 
 Funcionalidad 2 -> En progreso 
